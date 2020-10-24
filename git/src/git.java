@@ -16,6 +16,7 @@ public class git {
             mat[f]=new int[elementosA];// llenado de columnas
             confilas += elementosA;
             // da el conteo de suma A confilas
+            //nos da mas datos
             for(int c=0;c<mat[f].length;c++) {
                 System.out.print("Ingrese valor:");
                 mat[f][c]=tecladoA.nextInt(); // llenado de casiilas 
